@@ -1,13 +1,13 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='ytmp3-client',
+    name='ytmp3',
     version='0.1.0',
     packages=find_packages(),
     install_requires=['requests'],
-    author='xibra_v',
+    author='ibra1410',
     description='Client library for YT-MP3 API',
-    url='https://github.com/username/ytmp3-client',
+    url='https://github.com/username/ytmp3',
     classifiers=[
         'Programming Language :: Python :: 3',
     ],
