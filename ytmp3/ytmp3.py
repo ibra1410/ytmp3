@@ -1,6 +1,6 @@
 import requests
 
-DEFAULT_API_URL = "https://ytmp3-api.onrender.com"
+DEFAULT_API_URL = "https://api-den-0woa.onrender.com/convert"
 
 class YTtoMP3:
     def __init__(self, base_url=DEFAULT_API_URL):
