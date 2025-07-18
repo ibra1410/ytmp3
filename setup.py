@@ -7,7 +7,7 @@ setup(
     install_requires=['requests'],
     author='ibra1410',
     description='Client library for YT-MP3 API',
-    url='https://github.com/username/ytmp3',
+    url='https://github.com/ibra1410/ytmp3',
     classifiers=[
         'Programming Language :: Python :: 3',
     ],
