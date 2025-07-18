@@ -5,13 +5,13 @@ Python client library for YT-MP3 API.
 ## Install
 
 ```
-pip install ytmp3-client
+pip install ytmp3
 ```
 
 ## Usage
 
 ```python
-from ytmp3_client import YTtoMP3
+from ytmp3 import YTtoMP3
 
 client = YTtoMP3()
 result = client.convert("rDeQr-DC4Xo")
